@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #1b138a;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Calibri', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #a44ecc;
+}
+
+p {
+  font-size: 2rem;
+  color: #a44ecc;
+  font-family: 'Garamond', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: PaleGoldenRod;
+  text-align: center;
+  font-family: 'Garamond', cursive;
+  font-size: 2rem
+
+}
